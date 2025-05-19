@@ -2,10 +2,14 @@
 # Proyecto Final Desarrollo Web
 ## Carlos Andres Diaz Mendez - Manuel David Carreño Buitrago
 
-URL front desplegado: https://frontend-quickeats.vercel.app/
-URL back desplegado: https://backend-quick-eats.vercel.app/
-URL repositorio front: https://github.com/cdmendez25/Frontend-QuickEats
-URL repositorio back: https://github.com/cdmendez25/Backend-QuickEats
+## URL front desplegado: 
+https://frontend-quickeats.vercel.app/
+## URL back desplegado: 
+https://backend-quick-eats.vercel.app/
+## URL repositorio front: 
+https://github.com/cdmendez25/Frontend-QuickEats
+## URL repositorio back: 
+https://github.com/cdmendez25/Backend-QuickEats
 
 ### Universidad de La Sabana
 #### 2025 - I
